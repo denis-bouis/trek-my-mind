@@ -1,0 +1,34 @@
+{
+  "ordre_publication": 20,
+  "titre": "Chharka Bhot - Molum Summa",
+  "jour_trek": "",
+  "date_evenement": "2026-08-24",
+  "lieu": "Molum Summa",
+  "acte": "Acte 5 — Une immersion longue",
+  "stats": "",
+  "format": "Carrousel 12 slides : scene + 9 signature seule + 3 citations.",
+  "citation": "4917 m — deux tentes s'illuminent, éclairées par la lune et une frontale.",
+  "legende": "Trois ascensions au-dessus de 4800 m dans la même journée, plus de 20 km au compteur — et pour la première fois du trek, un rythme qui n'appartient qu'à moi, sans plus chercher à suivre personne. Le paysage, lui, hésite entre monotonie et surprise : un col qui ne change rien, puis un autre qui ouvre sur les pâturages.",
+  "slides": [
+    "1-scene.jpg",
+    "2-citation.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7-citation.jpg",
+    "8.jpg",
+    "9.jpg",
+    "10-citation.jpg",
+    "11.jpg",
+    "12.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 21→20) et titre renommé « Molum Summa » → « Chharka Bhot - Molum Summa » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : légende reformulée (l'originale dupliquait les motifs \"rivière/salle de bain\" déjà utilisés posts 17 et 19, et \"lièvres\" déjà utilisé post 17) — repartie du récit brut. Vérifié sur le GPX (activity_24119289835.gpx) : 3 pics distincts au-dessus de 4800 m (4867 m à 5h54, 4865 m à 8h18, 4917 m à 10h06), cohérent avec les \"deux cols à 4800 m\" + \"près de 4900 m\" du récit. 10/09/2026 : 3 citations rédigées à partir des idées de Denis et validées (Acte 5) : 2-citation (légumes et crottes de chèvres séchant côte à côte au sol du village), 7-citation (tracteur surgissant dans la vallée déserte), 10-citation (deux tentes illuminées dans l'ombre de la vallée, altitude du 3e sommet du jour). Stats + profil d'altitude calculés depuis activity_24119289835.gpx. manifest.json (2026-08-24) complété avec gpx et stat. 10/09/2026 (suite) : photo 12.jpg (ciel étoilé sur la silhouette des montagnes) ajoutée, signature seule. 10/09/2026 (suite) : 10-citation descendue au tiers bas (y_frac=0.75). Visuels validés par Denis — post prêt à publier.",
+  "citations": {
+    "2-citation.jpg": "Légumes et combustible — les crottes de chèvres — sèchent ensemble au soleil, à touche-touche.",
+    "7-citation.jpg": "Au détour de la vallée, un tracteur sorti de nulle part.",
+    "10-citation.jpg": "4917 m — deux tentes s'illuminent, éclairées par la lune et une frontale."
+  }
+}

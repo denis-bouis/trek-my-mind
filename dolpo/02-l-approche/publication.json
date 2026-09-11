@@ -1,0 +1,33 @@
+{
+  "ordre_publication": 2,
+  "titre": "L'approche",
+  "jour_trek": "",
+  "date_evenement": "2026-07-30",
+  "lieu": "De Kathmandou au Dolpo",
+  "acte": "Acte 1 — L'entrée progressive dans l'aventure",
+  "stats": "",
+  "format": "Carrousel 6 slides : titre + 5 signature seule. Cf. notes pour le détail par slide.",
+  "citation": "",
+  "titre_texte": {
+    "1-titre.jpg": "Avant le premier pas"
+  },
+  "legende": "Istanbul, cinq heures d'escale, et une voix dans le bus d'embarquement : « Denis ! » — le hasard des sièges 23B et 23H la met sur ma route avant même le premier sentier. Puis Kathmandou pour la troisième fois, toujours la même ruche saturée d'encens. Une journée de temples, d'offrandes et de robes colorées. Et les avions qui rétrécissent à chaque étape, jusqu'à Nepalgunj — 275 m, chaleur sèche. Le vrai trek n'a pas commencé, mais le monde d'avant, lui, s'éloigne déjà.",
+  "slides": [
+    "1-titre.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "dates_couvertes": [
+    "2026-07-30",
+    "2026-07-31",
+    "2026-08-01",
+    "2026-08-02",
+    "2026-08-03"
+  ],
+  "notes": "Montage multi-jours 30/07→03/08 (Istanbul, Kathmandou, Bhaktapur, trek urbain, Nepalgunj). Propositions littéraires jour par jour : Récits-du-Dolpo.md (Acte 1, + Bhaktapur en Acte 2). `--serie` ne traite pas un post multi-dates : masque appliqué le 04/09/2026 hors --serie par appel direct de render_titre()/render_signature() du script (pas de copie), couleur fuchsia + signature 75%, cohérent avec 00-manifeste et 01-ouverture-dolpo. Pudeur (04/09/2026) : légende initiale nommait « Chrystel » explicitement — corrigée en « Elle », sans nom ni qualification du lien. Détail des slides : 1 titre « Avant le premier pas » (Boudhanath de nuit, 31/07) — 2 Durbar Square animé (remplace une 1ère photo écartée : scène de crémation à Pashupatinath, trop frontale pour Instagram) — 3 Bhaktapur, ruelle aux poteries (femmes en tenue traditionnelle, de dos) — 4 Swayambhunath, cloche et pigeons — 5 marché de rue, vélo maraîcher — 6 pont vers le Teraï, troupeau de buffles (route vers Nepalgunj). 04/09/2026 : ajout du pavé logo vertical « Dolpo - Royaume oublié » sur la slide 1 (titre). Visuels validés par Denis le 04/09/2026 — post prêt à publier."
+}

@@ -1,0 +1,28 @@
+{
+  "ordre_publication": 19,
+  "titre": "Rapka - Chharka Bhot",
+  "jour_trek": "",
+  "date_evenement": "2026-08-23",
+  "lieu": "Chharka Bhot",
+  "acte": "Acte 5 — Une immersion longue",
+  "stats": "",
+  "format": "Carrousel 7 slides : scene + 4 signature seule + 2 citations.",
+  "citation": "Vivre ici requiert effort et vigilance à chaque instant.",
+  "legende": "Col du Mo La, 5027 m, franchi entre rivières à gué et rencontres de nomades — jusqu'au fromage de chèvre et de yak partagé en chemin. Puis une piste sans fin, virage après virage, jusqu'à Chharka Bhot. Ce soir, luxe oublié depuis des jours : dîner à l'intérieur d'une vraie maison.",
+  "slides": [
+    "1-scene.jpg",
+    "2-citation.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5-citation.jpg",
+    "6.jpg",
+    "7.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 20→19) et titre renommé « Chharka Bhot » → « Rapka - Chharka Bhot » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : 2 citations rédigées à partir des idées de Denis et validées (Acte 5) : 2-citation (porteuse traversant la rivière pieds nus, chargée de bois), 5-citation (le sac noir du guérisseur/médecin traditionnel devant la tente). Pudeur : visages nets sur les deux photos, signalé — gardé après validation explicite de Denis. Stats + profil d'altitude calculés depuis activity_24119285724.gpx (altitude max 5056 m cohérente avec le col du Mo La à 5027 m du récit). manifest.json (2026-08-23) complété avec gpx et stat. 10/09/2026 (suite) : visuels validés par Denis — post prêt à publier.",
+  "citations": {
+    "2-citation.jpg": "Vivre ici requiert effort et vigilance à chaque instant.",
+    "5-citation.jpg": "Toute la médecine et la pharmacopée tibétaine tiennent dans cet homme et ce sac."
+  }
+}

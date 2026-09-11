@@ -1,0 +1,40 @@
+{
+  "ordre_publication": 6,
+  "titre": "Saijul - Ringmo",
+  "jour_trek": "",
+  "date_evenement": "2026-08-08",
+  "lieu": "Ringmo",
+  "acte": "Acte 2 — Faire connaissance avec les lieux et les personnes",
+  "stats": "DURÉE 3h19 · DISTANCE 6,5 km · DÉNIVELÉ +682/-143 m · ALTITUDE 3127-3670 m (calculées depuis activity_24118970924.gpx, journée du 08/08)",
+  "format": "Carrousel 14 slides : scene + 10 signature seule + 3 citations.",
+  "citation": "Quand l'effort laisse la place à autre chose",
+  "citations": {
+    "8-citation.jpg": "Quand l'effort laisse la place à autre chose",
+    "12-citation.jpg": "La lumière qui révèle l'âme",
+    "14-citation.jpg": "1ère ouverture sur le merveilleux"
+  },
+  "legende": "Le canyon se referme, le sentier devient vertigineux, aménagé à la force des bras. Et puis, comme surgi de nulle part : Ringmo, ses drapeaux de prière, ses champs de pommes de terre en fleurs. Un jour de repos, une première ascension à 4050 m pour saluer le lac de Phoksundo d'en haut.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8-citation.jpg",
+    "9.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12-citation.jpg",
+    "13.jpg",
+    "14-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "dates_couvertes": [
+    "2026-08-08",
+    "2026-08-09"
+  ],
+  "notes": "Couvre 08 et 09/08 (jour de marche + jour de repos au lac). 04/09/2026 : renumérotation (ordre 7→6) et titre renommé « Ringmo » → « Saijul - Ringmo » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). Masque appliqué hors --serie (multi-dates) : 1-scene avec stats + tracé GPS du 08/08 (activity_24118970924.gpx). 8-citation « Quand l'effort laisse la place à autre chose » (rivière turquoise apaisée après le canyon), 12-citation « La lumière qui révèle l'âme » (pont de nuit à la frontale), 14-citation « 1ère ouverture sur le merveilleux » (lac de Phoksundo, fleurs jaunes) — les 3 en écho à la légende. 2/3/4/5/6/7/9/11/13 signature seule. Pudeur : photo 7 (visages nets à distance moyenne) confirmée par Denis comme n'étant pas « Elle », gardée. Photo 10 (portrait de Denis, visage visible) gardée en exception assumée par Denis, hors registre habituel (visage réservé au post A). 12-citation : position remontée (y_frac=0.32) à la demande de Denis — nouveau paramètre `y_frac` ajouté à render_citation()/draw_citation_zone() dans le script partagé (défaut 0.5 = centré, inchangé ailleurs). Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée avec le nouveau comportement départ/arrivée du profil d'altitude — ici départ et arrivée coïncident avec min/max, donc aucune étiquette supplémentaire (pas de redondance) ; aucun autre changement."
+}

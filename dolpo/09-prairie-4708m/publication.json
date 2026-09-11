@@ -1,0 +1,31 @@
+{
+  "ordre_publication": 8,
+  "titre": "Le camp au bout de la poutre - Prairie à 4708 m",
+  "jour_trek": "",
+  "date_evenement": "2026-08-11",
+  "lieu": "Prairie d'altitude",
+  "acte": "Acte 3 — Un échange intime avec soi-même (et les autres)",
+  "stats": "",
+  "format": "Carrousel 9 slides : scene + 5 signature seule + 3 citations.",
+  "citation": "Ici, seul l'instant compte.",
+  "citations": {
+    "6-citation.jpg": "Ici, seul l'instant compte.",
+    "8-citation.jpg": "Le trek s'étire à l'image de la vallée, le temps n'existe plus, on s'installe en soi dans la durée.",
+    "9-citation.jpg": "Royaume de la panthère des neiges — cette nuit, elle nous observe peut-être."
+  },
+  "legende": "1020 m de dénivelé positif pour planter la tente à 4708 m, dans le royaume silencieux de la panthère des neiges. On n'a vu que ses traces — une empreinte, quelques crottes — et pourtant, cette nuit-là, on dort avec l'idée qu'elle nous regarde peut-être.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6-citation.jpg",
+    "7.jpg",
+    "8-citation.jpg",
+    "9-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 9→8) et titre renommé « Prairie à 4708 m » → « Le camp au bout de la poutre - Prairie à 4708 m » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 05/09/2026 : 3 citations validées par Denis (Acte 3) — 6-citation (mule qui broute en pleine ascension, pleine conscience), 8-citation (vallée caillouteuse vers un sommet caché dans les nuages, s'inscrire dans la durée), 9-citation (deux tentes allumées au crépuscule sous la crête sombre, écho direct à la légende). 1-scene regénérée avec stats/profil d'altitude depuis activity_24118997689.gpx (D+1084/-250, cohérent avec les ~1020 m du récit) ; lieu omis (« Prairie d'altitude » redondant avec le titre). Pudeur : photo 5 montre un visage net à distance moyenne (personne assise, changeant de chaussures) — signalé à Denis, gardée telle quelle (validé explicitement le 05/09/2026). 9-citation : citation décalée vers le bas (y_frac=0.68 au lieu de 0.5) à la demande de Denis, pour dégager les deux tentes. Visuels validés par Denis le 05/09/2026 — post prêt à publier."
+}

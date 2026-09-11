@@ -1,0 +1,26 @@
+{
+  "ordre_publication": 1,
+  "titre": "Ouverture — Dolpo",
+  "jour_trek": "",
+  "date_evenement": "",
+  "lieu": "Dolpo, Népal",
+  "acte": "Post d'ouverture de la série (cold open, hors chronologie) — l'arc émotionnel : « parti pour en chier / revenu émerveillé » + triple basculement",
+  "stats": "",
+  "format": "Image forte unique (silhouette minuscule dans l'immensité) + accroche en surimpression, OU carrousel court : accroche + 4 (effort brut / silence / collectif / bascule). Cf. 00-manifeste/shotlist.md (partie B). Pas de bandeau de série ni de stats.",
+  "citation": "Je suis parti pour en chier. Je suis revenu émerveillé.",
+  "citations": {
+    "1.jpg": "J'étais parti pour en chier",
+    "5.jpg": "Je suis revenu émerveillé"
+  },
+  "legende": "Je suis parti pour en chier. Je suis revenu émerveillé.\n\n22 jours dans le Dolpo, ce coin du Népal collé au Tibet où la route ne va pas. 31 jours sans réseau, sans écran, sans nouvelles du monde.\n\nLe premier jour, j'ai résumé mon état d'esprit d'une formule un peu brute : venir se confronter, en baver, tester ses limites. Elle m'a repris : « moi, je suis venu pour m'émerveiller. » Elle avait raison. L'effort n'était pas le but — seulement le révélateur. Ce qu'il fait éclater : une paix, une clarté qu'on n'atteint pas autrement.\n\nTrois semaines sans bruit m'ont rendu quelque chose que dix ans de vacances n'avaient pas su me rendre. Et cette reconnexion à moi ne s'est pas refermée sur moi : elle a ouvert — vers les autres, vers la suite.\n\nCe que je raconte ici, ce n'est pas la performance : c'est ce que ces 22 jours ont déplacé dans la tête. Ça commence maintenant. 👇",
+  "slides": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "POST D'OUVERTURE DÉDIÉ de la série Dolpo (cold open, hors chronologie) — distinct de 02-l-approche (décision Denis 04/09/2026). Registre = arc émotionnel ; source Réflexion/Retour-du-Dolpo-Premières-Impressions.md. Texte = manifeste validé le 04/09 (édit « Elle »), closing adapté pour l'ouverture de série : « Bienvenue sur Trek My Mind » retiré (désormais porté par 00-manifeste). Pudeur : le tiers du groupe = « Elle », sans nom ni qualification du lien. Hors --serie (sans date, montage) : les 5 photos couvrent des dates différentes (09→26/08/2026), masque appliqué le 04/09/2026 par appel direct de render_citation()/render_signature() du script (pas de copie), couleur fuchsia + signature 75%, cohérent avec 00-manifeste. Progression du carrousel : 1 effort + citation « J'étais parti pour en chier » (col Shey Sumdho, 12/08) — 2 silence, signature seule (dos, contemplatif) — 3 collectif, signature seule (mules et groupe au refuge — remplace une 1ère photo 3 écartée pour pudeur : selfie de groupe visage visible, cf. décision du 04/09) — 4 émerveillement, signature seule (lac Phoksundo) — 5 émerveillement + citation « Je suis revenu émerveillé » (crête, 26/08). Shot-list : 00-manifeste/shotlist.md (partie B). 04/09/2026 : ajout du pavé logo vertical « Dolpo - Royaume oublié » (Zone 2 du gabarit Garmin, haut droit) sur les slides 1 et 5 — nouvelle option `event_name` de render_citation()/render_titre() dans le script partagé. Visuels validés par Denis le 04/09/2026 — post prêt à publier."
+}

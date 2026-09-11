@@ -1,0 +1,26 @@
+{
+  "ordre_publication": 4,
+  "titre": "Sulighat - Chepka",
+  "jour_trek": "",
+  "date_evenement": "2026-08-06",
+  "lieu": "Chepka",
+  "acte": "Acte 2 — Faire connaissance avec les lieux et les personnes",
+  "stats": "DURÉE 5h33 · DISTANCE 12,9 km · DÉNIVELÉ +973/-372 m · ALTITUDE 2069-2705 m (calculées depuis activity_24118964639.gpx)",
+  "format": "Carrousel 6 slides : scene + 4 signature seule + citation.",
+  "citation": "Trois éléments chers au Népal, Air, Terre et Feu",
+  "citations": {
+    "6-citation.jpg": "Trois éléments chers au Népal, Air, Terre et Feu"
+  },
+  "legende": "Une gorge, un torrent tumultueux, une rive puis l'autre. 30 °C et 60 % d'humidité au départ, 22 °C et plus de 80 % à l'arrivée — la forêt himalayenne avale la chaleur et recrache l'humidité. On arrive trempés au lodge, trop mouillés pour même sentir la pluie.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 5→4) et titre renommé « Chepka » → « Sulighat - Chepka » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 6-citation traitée (fuchsia + bandeau « Dolpo - Royaume oublié » + signature) : « Trois éléments chers au Népal, Air, Terre et Feu », en écho au chaudron sur le feu contre le mur de pierre, référence aux Panchamahābhūta. 1-scene : stats + tracé GPS depuis activity_24118964639.gpx, position=\"gauche\" retenue malgré le tracé qui frôle un randonneur sur la passerelle (compromis validé par Denis — l'alternative droite chevauchait aussi un randonneur avec le bloc stats). 2/3/4/5 signature seule. Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée avec le nouveau comportement départ/arrivée du profil d'altitude — ici départ et arrivée coïncident avec min/max, donc aucune étiquette supplémentaire (pas de redondance) ; aucun autre changement."
+}

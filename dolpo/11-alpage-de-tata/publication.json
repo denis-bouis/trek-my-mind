@@ -1,0 +1,28 @@
+{
+  "ordre_publication": 10,
+  "titre": "Shey Sumdho Gompa - Alpage de Tâta",
+  "jour_trek": "",
+  "date_evenement": "2026-08-14",
+  "lieu": "Tâta",
+  "acte": "Acte 3 — Un échange intime avec soi-même (et les autres)",
+  "stats": "",
+  "format": "Carrousel 7 slides : scene + 4 signature seule + 2 citations.",
+  "citation": "Premier col à 4891 m. Happé par les nuages, comme aspiré dans un autre monde.",
+  "legende": "Deux cols à plus de 4800 m, un troisième en prime — chaque fois la même mécanique : la pente qui s'arrondit, le « yes » qui monte, et puis le sentier qui révèle un ultime détour. Le rire l'emporte sur l'épuisement. Ce soir, l'alpage de Tâta et un rythme devenu presque monastique : marcher, sieste, repas, dormir.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3-citation.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6-citation.jpg",
+    "7.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 11→10) et titre renommé « Alpage de Tâta » → « Shey Sumdho Gompa - Alpage de Tâta » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : 1-scene.jpg (moineau en gros plan) et 4.jpg (nuages envahissant le cirque rocheux) intervertis — 4.jpg est la vraie photo scene (identité du post), le moineau redevenant une photo signature seule sous le nom 4.jpg. 2 citations validées par Denis (Acte 3) : 3-citation (premier col à 4800 m, portrait au-dessus des nuages), 6-citation (silhouette minuscule sur la pente qui révèle le 3e col, écho au « oh, la blague ! » du récit). Stats + profil d'altitude calculés depuis activity_24119073355.gpx (distance/dénivelé par haversine, D+/D- seuil de bruit 1 m) : altitude max 4891 m, cohérente avec les « deux cols à plus de 4800 m » du récit. manifest.json (2026-08-14) complété avec gpx et stat. 10/09/2026 (suite) : y_frac=0.28 sur 3-citation pour remonter le texte dans les nuages et dégager le porteur/sac à droite. 10/09/2026 (suite) : altitude de la citation 3 corrigée 4800 m -> 4891 m (valeur exacte du GPX, le premier col culmine plus haut que le seuil narratif \"plus de 4800 m\"). 10/09/2026 (suite) : visuels validés par Denis — post prêt à publier.",
+  "citations": {
+    "3-citation.jpg": "Premier col à 4891 m. Happé par les nuages, comme aspiré dans un autre monde.",
+    "6-citation.jpg": "Le col paraît acquis, le « yes » déjà aux lèvres — et le sentier révèle un troisième détour. Le rire gagne, toujours."
+  }
+}

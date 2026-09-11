@@ -1,0 +1,31 @@
+{
+  "ordre_publication": 13,
+  "titre": "Marang - Nisalgaon",
+  "jour_trek": "",
+  "date_evenement": "2026-08-17",
+  "lieu": "Nisalgaon",
+  "acte": "Acte 4 — La reconnexion à soi s'épanouit de la déconnexion",
+  "stats": "",
+  "format": "Carrousel 10 slides : scene + 6 signature seule + 2 citations.",
+  "citation": "Mille prières gravées, pierre après pierre, par des générations qui nous précèdent.",
+  "legende": "Soleil dès le réveil, une traversée à flanc de montagne au-dessus de villages entourés de champs de sarrasin et de colza. Puis, sans prévenir, l'orage — la tente mess sous dix centimètres d'eau boueuse. Le repas se fera finalement dans le monastère voisin : un nouveau cadeau de l'univers.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8-citation.jpg",
+    "9.jpg",
+    "10-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 14→13) et titre renommé « Nisalgaon » → « Marang - Nisalgaon » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : légende retouchée (\"un cadeau des dieux, dira Nima...\" -> \"un nouveau cadeau de l'univers.\"). 2 citations rédigées et validées (Acte 4) : 8-citation (mur de pierres mani à perte de vue, générations de prières), 10-citation (tentes plantées dans la cour du monastère entre les stupas, écho direct à la légende). Stats + profil d'altitude calculés depuis activity_24119273200.gpx (distance/dénivelé par haversine, D+/D- seuil de bruit 1 m). manifest.json (2026-08-17) complété avec gpx et stat. 10/09/2026 (suite) : 8-citation remontée au tiers haut (y_frac=0.25), 10-citation descendue au tiers bas (y_frac=0.75). Visuels validés par Denis — post prêt à publier.",
+  "citations": {
+    "8-citation.jpg": "Mille prières gravées, pierre après pierre, par des générations qui nous précèdent.",
+    "10-citation.jpg": "L'orage nous chasse, le monastère nous accueille — un cadeau de l'univers."
+  }
+}

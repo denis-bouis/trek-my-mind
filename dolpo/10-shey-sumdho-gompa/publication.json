@@ -1,0 +1,47 @@
+{
+  "ordre_publication": 9,
+  "titre": "Prairie à 4708 m - Shey Sumdho Gompa",
+  "jour_trek": "",
+  "date_evenement": "2026-08-12",
+  "lieu": "Shey Gompa",
+  "acte": "Acte 3 — Un échange intime avec soi-même (et les autres)",
+  "stats": "",
+  "format": "",
+  "citation": "Au sommet, la pudeur recule d'un pas — il ne reste que le plaisir d'y être, ensemble.",
+  "citations": {
+    "8-citation.jpg": "Au sommet, la pudeur recule d'un pas — il ne reste que le plaisir d'y être, ensemble.",
+    "9-citation.jpg": "Un bol chantant, un sommet à 5345 m — la méditation trouve ici son plus bel autel.",
+    "12-citation.jpg": "Ici, l'enfance grandit libre de la pollution du monde.",
+    "14-citation.jpg": "Moulin à prières en main, il boucle le kora de la Crystal Mountain — un pèlerinage bien plus vieux que notre passage.",
+    "19-citation.jpg": "Le monastère niché là, loin de tout — on comprend soudain l'envie d'une retraite spirituelle."
+  },
+  "legende": "Premier 5000 du trek, ~5345 m, atteint hors piste dans un vallon façonné par un glacier disparu. Au sommet, les embrassades, et chacun qui laisse un peu de sa pudeur derrière lui. Puis l'orage, l'abri trouvé de justesse à la porte de Shey Gompa — trois tentes, quelques cabanes, un monastère : à peine un village, mais assez pour s'y arrêter deux nuits.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8-citation.jpg",
+    "9-citation.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12-citation.jpg",
+    "13.jpg",
+    "14-citation.jpg",
+    "15.jpg",
+    "16.jpg",
+    "17.jpg",
+    "18.jpg",
+    "19-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "dates_couvertes": [
+    "2026-08-12",
+    "2026-08-13"
+  ],
+  "notes": "Couvre 12 et 13/08 (passage du col + jour de repos à Shey Gompa). 04/09/2026 : renumérotation (ordre 10→9) et titre renommé « Shey Sumdho Gompa » → « Prairie à 4708 m - Shey Sumdho Gompa » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 05/09/2026 : 5 citations validées par Denis (Acte 3) — 8-citation (sommet, pudeur qui recule), 9-citation (méditation au bol chantant), 12-citation (enfant du village, libre de la pollution du monde), 14-citation (pèlerin au kora de la Crystal Mountain, terme non traduit à la demande de Denis), 19-citation (monastère niché dans la vallée, retraite spirituelle). Pudeur : 12-citation (visage net d'un enfant du village) et 14-citation (visage net d'un pèlerin âgé) signalés à Denis, gardés tels quels (validé explicitement). Rendus (accent fuchsia, signature + pavé event_name comme le reste de la série) : y_frac ajusté par photo pour dégager les sujets — 8-citation 0.28 (ciel, au-dessus des deux marcheurs), 9-citation 0.3 (nuages, au-dessus du cairn), 12-citation 0.8 (tiers bas, sol/gravier sous l'enfant — déplacé vers le bas à la demande de Denis, initialement au-dessus à 0.15, ajusté de 0.85 à 0.8 pour ne pas toucher les pieds), 14-citation 0.75 (herbe, sous le pèlerin), 19-citation 0.22 (flanc de colline, au-dessus du monastère) ; pas de voile nécessaire sur les 5. 05/09/2026 (suite) : 1.jpg confirmé par Denis comme la scene du post (déjà renommée 1-scene.jpg dans originaux/) — rendue avec stats/profil d'altitude depuis activity_24119320698.gpx (départ 4711 m, max 5387 m — cohérent avec le ~5345 m du récit —, arrivée 4332 m, tous distincts), lieu omis (« Shey Gompa » redondant avec le titre). 05/09/2026 (suite) : les 13 photos signature seule rendues (2-7, 10-11, 13, 15-18). Pudeur supplémentaire signalée à Denis, en attente de décision : 17.jpg (gros plan visage d'un autre enfant du village) et 18.jpg (gros plan visage d'un homme âgé du village, toque en fourrure) — même registre que 12-citation/14-citation. 4 photos (12-citation, 14-citation, 17, 18) gardées telles quelles — validé explicitement par Denis. Visuels validés par Denis le 05/09/2026 — post prêt à publier."
+}

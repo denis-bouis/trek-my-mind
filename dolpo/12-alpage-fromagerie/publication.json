@@ -1,0 +1,30 @@
+{
+  "ordre_publication": 11,
+  "titre": "Alpage de Tâta - Alpage de la fromagerie",
+  "jour_trek": "",
+  "date_evenement": "2026-08-15",
+  "lieu": "Alpage 4808 m",
+  "acte": "Acte 4 — La reconnexion à soi s'épanouit de la déconnexion",
+  "stats": "",
+  "format": "Carrousel 8 slides : scene + 4 signature seule + 3 citations.",
+  "citation": "Bienvenue dans un autre monde.",
+  "legende": "Je ne sais plus quel jour on est, ni quelle heure il est. Nos journées se résument à lever du jour, sac, marche, tente. Hors du temps, hors de l'espace — et c'est exactement pour ça qu'on est venus. Ce soir, le camp à 4808 m, l'altitude du Mont-Blanc, et pour dîner, du fromage livré par la version Dolpo d'Uber Eats : deux bergers et leurs mules.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3-citation.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6-citation.jpg",
+    "7.jpg",
+    "8-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 12→11) et titre renommé « Alpage de la fromagerie » → « Alpage de Tâta - Alpage de la fromagerie » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : 3 citations rédigées à partir des idées de Denis et validées (Acte 4) : 3-citation (villageois et yak à l'abreuvoir devant la maison de pierre, \"un autre monde\"), 6-citation (motard chargé de vivres, écho direct à la légende \"Uber Eats du Dolpo\"), 8-citation (tente illuminée au-dessus de la mer de nuages au crépuscule, \"hors du temps\"). Stats + profil d'altitude calculés depuis activity_24119277076.gpx (distance/dénivelé par haversine, D+/D- seuil de bruit 1 m) : altitude max 4824 m, cohérente avec le camp à 4808 m du récit. manifest.json (2026-08-15) complété avec gpx et stat. 10/09/2026 (suite) : voile blanc retiré de 6-citation (rendait la photo trop délavée) — texte gardé lisible par la seule ombre portée sur la veste sombre. Visuels validés par Denis — post prêt à publier.",
+  "citations": {
+    "3-citation.jpg": "Bienvenue dans un autre monde.",
+    "6-citation.jpg": "L'Uber Eats du Dolpo — une moto, un chemin, et un sourire en prime.",
+    "8-citation.jpg": "Ici, le temps n'existe plus."
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "event_name": "Dolpo - Royaume oublié",
+  "couleur": "#B44A1E",
+  "signature": "Trek My Mind",
+  "dates": {
+    "2026-07-30": {
+      "titre": "Istanbul",
+      "lieu": "Istanbul",
+      "stat": []
+    },
+    "2026-07-31": {
+      "titre": "Kathmandou",
+      "lieu": "Kathmandou",
+      "stat": []
+    },
+    "2026-08-01": {
+      "titre": "Bhaktapur",
+      "lieu": "Bhaktapur",
+      "stat": []
+    },
+    "2026-08-02": {
+      "titre": "Kathmandou — trek urbain",
+      "lieu": "Kathmandou",
+      "stat": []
+    },
+    "2026-08-03": {
+      "titre": "Nepalgunj",
+      "lieu": "Nepalgunj",
+      "stat": []
+    },
+    "2026-08-05": {
+      "titre": "Juphal / Sulighat",
+      "lieu": "Juphal → Sulighat",
+      "stat": [
+        "Durée|2h05|",
+        "Distance|5,9|km",
+        "Dénivelé + / -|93 / 507|m"
+      ],
+      "gpx": "gpx/activity_23869857698.gpx"
+    },
+    "2026-08-06": {
+      "titre": "Chepka",
+      "lieu": "Chepka",
+      "stat": [
+        "Durée|5h33|",
+        "Distance|12,9|km",
+        "Dénivelé + / -|973 / 372|m"
+      ],
+      "gpx": "gpx/activity_24118964639.gpx"
+    },
+    "2026-08-07": {
+      "titre": "Saijul",
+      "lieu": "Saijul",
+      "stat": [
+        "Durée|5h50|",
+        "Distance|13,8|km",
+        "Dénivelé + / -|894 / 434|m"
+      ],
+      "gpx": "gpx/activity_24123428080.gpx"
+    },
+    "2026-08-08": {
+      "titre": "Ringmo",
+      "lieu": "Ringmo",
+      "stat": [
+        "Durée|3h19|",
+        "Distance|6,5|km",
+        "Dénivelé + / -|682 / 143|m"
+      ],
+      "gpx": "gpx/activity_24118970924.gpx"
+    },
+    "2026-08-09": {
+      "titre": "Ringmo",
+      "lieu": "Ringmo",
+      "stat": []
+    },
+    "2026-08-10": {
+      "titre": "Le camp au bout de la poutre",
+      "lieu": "Thulodunga",
+      "stat": [
+        "Durée|8h24|",
+        "Distance|18,8|km",
+        "Dénivelé + / -|1064 / 874|m"
+      ],
+      "gpx": "gpx/activity_24118988284.gpx"
+    },
+    "2026-08-11": {
+      "titre": "Prairie à 4708 m",
+      "lieu": "Prairie d'altitude",
+      "stat": [
+        "Durée|5h57|",
+        "Distance|8,6|km",
+        "Dénivelé + / -|1084 / 250|m"
+      ],
+      "gpx": "gpx/activity_24118997689.gpx"
+    },
+    "2026-08-12": {
+      "titre": "Shey Sumdho Gompa",
+      "lieu": "Shey Gompa",
+      "stat": [
+        "Durée|6h05|",
+        "Distance|11,6|km",
+        "Dénivelé + / -|759 / 1118|m"
+      ],
+      "gpx": "gpx/activity_24119320698.gpx"
+    },
+    "2026-08-13": {
+      "titre": "Shey Sumdho Gompa",
+      "lieu": "Shey Gompa",
+      "stat": []
+    },
+    "2026-08-14": {
+      "titre": "Alpage de Tâta",
+      "lieu": "Tâta",
+      "stat": [
+        "Durée|6h57|",
+        "Distance|14,5|km",
+        "Dénivelé + / -|1149 / 971|m"
+      ],
+      "gpx": "gpx/activity_24119073355.gpx"
+    },
+    "2026-08-15": {
+      "titre": "Alpage de la fromagerie",
+      "lieu": "Alpage 4808 m",
+      "stat": [
+        "Durée|4h39|",
+        "Distance|8,4|km",
+        "Dénivelé + / -|793 / 520|m"
+      ],
+      "gpx": "gpx/activity_24119277076.gpx"
+    },
+    "2026-08-16": {
+      "titre": "Marang",
+      "lieu": "Marang",
+      "stat": [
+        "Durée|5h26|",
+        "Distance|11,1|km",
+        "Dénivelé + / -|689 / 1303|m"
+      ],
+      "gpx": "gpx/activity_24119321641.gpx"
+    },
+    "2026-08-17": {
+      "titre": "Nisalgaon",
+      "lieu": "Nisalgaon",
+      "stat": [
+        "Durée|4h51|",
+        "Distance|13,2|km",
+        "Dénivelé + / -|464 / 782|m"
+      ],
+      "gpx": "gpx/activity_24119273200.gpx"
+    },
+    "2026-08-18": {
+      "titre": "Musigaon vs Saldang",
+      "lieu": "Saldang",
+      "stat": [
+        "Durée|7h09|",
+        "Distance|21,3|km",
+        "Dénivelé + / -|1006 / 816|m"
+      ],
+      "gpx": "gpx/activity_24119273833.gpx"
+    },
+    "2026-08-19": {
+      "titre": "Khomagaon",
+      "lieu": "Khomagaon",
+      "stat": [
+        "Durée|5h06|",
+        "Distance|12,5|km",
+        "Dénivelé + / -|862 / 712|m"
+      ],
+      "gpx": "gpx/activity_24119274744.gpx"
+    },
+    "2026-08-20": {
+      "titre": "Pu Gumba",
+      "lieu": "Shimen",
+      "stat": [
+        "Durée|5h27|",
+        "Distance|17,0|km",
+        "Dénivelé + / -|637 / 853|m"
+      ],
+      "gpx": "gpx/activity_24119281085.gpx"
+    },
+    "2026-08-21": {
+      "titre": "Tinje",
+      "lieu": "Tinje",
+      "stat": [
+        "Durée|3h29|",
+        "Distance|10,3|km",
+        "Dénivelé + / -|378 / 142|m"
+      ],
+      "gpx": "gpx/activity_24119283984.gpx"
+    },
+    "2026-08-22": {
+      "titre": "Rapka",
+      "lieu": "Rapka",
+      "stat": [
+        "Durée|7h01|",
+        "Distance|22,8|km",
+        "Dénivelé + / -|729 / 295|m"
+      ],
+      "gpx": "gpx/activity_24119284714.gpx"
+    },
+    "2026-08-23": {
+      "titre": "Chharka Bhot",
+      "lieu": "Chharka Bhot",
+      "stat": [
+        "Durée|6h36|",
+        "Distance|22,0|km",
+        "Dénivelé + / -|692 / 980|m"
+      ],
+      "gpx": "gpx/activity_24119285724.gpx"
+    },
+    "2026-08-24": {
+      "titre": "Molum Summa",
+      "lieu": "Molum Summa",
+      "stat": [
+        "Durée|7h11|",
+        "Distance|20,2|km",
+        "Dénivelé + / -|1127 / 564|m"
+      ],
+      "gpx": "gpx/activity_24119289835.gpx"
+    },
+    "2026-08-25": {
+      "titre": "Sangda",
+      "lieu": "Sangda",
+      "stat": [
+        "Durée|8h37|",
+        "Distance|25,1|km",
+        "Dénivelé + / -|732 / 1836|m"
+      ],
+      "gpx": "gpx/activity_24119294269.gpx"
+    },
+    "2026-08-26": {
+      "titre": "Jomsom",
+      "lieu": "Jomsom",
+      "stat": [
+        "Durée|9h41|",
+        "Distance|28,6|km",
+        "Dénivelé + / -|1319 / 2367|m"
+      ],
+      "gpx": "gpx/activity_24122442965.gpx"
+    },
+    "2026-08-27": {
+      "titre": "Pokhara",
+      "lieu": "Pokhara",
+      "stat": []
+    },
+    "2026-08-28": {
+      "titre": "Pokhara",
+      "lieu": "Pokhara",
+      "stat": []
+    },
+    "2026-08-29": {
+      "titre": "Kathmandou — retour",
+      "lieu": "Kathmandou",
+      "stat": []
+    },
+    "2026-08-30": {
+      "titre": "Kathmandou — retour",
+      "lieu": "Kathmandou",
+      "stat": []
+    },
+    "2026-08-31": {
+      "titre": "Kathmandou — retour",
+      "lieu": "Kathmandou",
+      "stat": []
+    }
+  }
+}

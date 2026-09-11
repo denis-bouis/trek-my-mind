@@ -1,0 +1,34 @@
+{
+  "ordre_publication": 7,
+  "titre": "Ringmo - Le camp au bout de la poutre",
+  "jour_trek": "",
+  "date_evenement": "2026-08-10",
+  "lieu": "Thulodunga",
+  "acte": "Acte 3 — Un échange intime avec soi-même (et les autres)",
+  "stats": "DURÉE 8h24 · DISTANCE 18,8 km · DÉNIVELÉ +1064/-874 m · ALTITUDE 3625-4111 m (calculées depuis activity_24118988284.gpx)",
+  "format": "Carrousel 12 slides : scene + 8 signature seule + 3 citations.",
+  "citation": "Face au lac de Phoksundo, il n'y a plus rien à dire — juste à regarder, et à se laisser traverser.",
+  "citations": {
+    "5-citation.jpg": "Face au lac de Phoksundo, il n'y a plus rien à dire — juste à regarder, et à se laisser traverser.",
+    "7-citation.jpg": "Trois tasses fumantes dans la prairie, face aux teahouses — la pause où chacun se retrouve, sans un mot.",
+    "12-citation.jpg": "Un pied après l'autre sur la poutre, les yeux rivés devant soi — même le repos se mérite jusqu'au dernier mètre."
+  },
+  "legende": "Le lac de Phoksundo contourné sur un sentier suspendu, un canyon qui se referme sous un glacier à 6600 m, 18 km avant même la montée du soir. Et au bout de l'effort, une dernière facétie du Dolpo : traverser une poutre pour atteindre le camp. Même le repos se mérite jusqu'au dernier mètre.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5-citation.jpg",
+    "6.jpg",
+    "7-citation.jpg",
+    "8.jpg",
+    "9.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 8→7) et titre renommé « Le camp au bout de la poutre » → « Ringmo - Le camp au bout de la poutre » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 05/09/2026 : 3 citations validées par Denis (Acte 3 — échange intime avec soi-même) et rendus générés. Masque appliqué hors --serie (3 citations différentes sur la même date, non géré par le manifest global) : appel direct de render_scene()/render_citation()/render_signature() du script partagé (pas de copie), accent fuchsia comme le reste de la série hors-serie. 1-scene : titre/lieu/date du manifest (« Le camp au bout de la poutre », Thulodunga, 10/08/2026). Correction 05/09/2026 : un GPX correspondant existait bien (activity_24118988284.gpx, non rapproché initialement) — stats et profil d'altitude calculés (distance/dénivelé par haversine sur les points du tracé, D+/D- avec seuil de bruit 1 m, cf. méthode 03-juphal) et le rendu regénéré avec ; manifest.json (2026-08-10) complété avec gpx et stat en conséquence. Correction supplémentaire : le titre incrusté reprenait à tort le titre court du manifest global (« Le camp au bout de la poutre ») au lieu du titre du post (« Ringmo - Le camp au bout de la poutre »), comme sur les 4 autres scenes hors-serie de la série — corrigé. Ajout départ/arrivée sur le profil d'altitude (draw_elevation_profile_zone) : départ 3648 m et arrivée 3838 m affichés en plus du min 3625 m et du max 4111 m, tous distincts ici. Correction 05/09/2026 : les 3 citations avaient été rendues sans le pavé event_name ni la signature — contrairement à l'usage réel de la série (cf. 07-ringmo/8-citation.jpg, qui porte les deux) — régénérées avec signature=\"Trek My Mind\" et event_name=\"Dolpo - Royaume oublié\" en plus des paramètres voile/y_frac déjà retenus. Visuels validés par Denis le 05/09/2026 — post prêt à publier. 5-citation « Face au lac de Phoksundo... » (lac de Phoksundo, branches mortes) : y_frac=0.28 pour remonter le texte dans le ciel dégagé et éviter le fouillis des branches/lac au centre, pas de voile. 7-citation « Trois tasses fumantes... » (tasses de thé sur plateau, prairie face aux teahouses) : centré par défaut (y_frac=0.5), zone calme, pas de voile. 12-citation « Un pied après l'autre... » (traversée de la poutre) : voile blanc 50% activé (photo très texturée sur toute sa surface — rochers, eau vive — nécessaire à la lisibilité du manuscrit), y_frac=0.5. 2/3/4/6/8/9/10/11 signature seule. Revue pudeur : aucun visage net en gros plan, aucune identification de « Elle » — rien à signaler. Visuels en attente de validation finale par Denis avant passage à `pret`."
+}

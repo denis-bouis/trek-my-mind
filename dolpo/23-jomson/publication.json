@@ -1,0 +1,37 @@
+{
+  "ordre_publication": 22,
+  "titre": "Sangda - Jomsom",
+  "jour_trek": "",
+  "date_evenement": "2026-08-26",
+  "lieu": "Jomsom",
+  "acte": "Acte 5 — Une immersion longue",
+  "stats": "",
+  "format": "Carrousel 14 slides : scene + 9 signature seule + 4 citations. Dernier post de la série Dolpo.",
+  "citation": "1000 m de descente nous séparent encore de la fin de cette aventure — mais finir, c'est déjà ouvrir la porte sur la suite.",
+  "legende": "Un vote pour trancher : deux jours tranquilles ou une étape marathon — 25 km, 1000 m de D+, 2000 m de D-. Le groupe choisit l'effort. Cols en chaîne, bifurcation manquée, remontée pour la rattraper, et une dernière vue sur le Mustang avant l'ultime descente dans les éboulis. Le corps a payé le prix fort pour cette dernière étape — mais c'est peut-être la plus fidèle image de tout le Dolpo.",
+  "slides": [
+    "1-scene.jpg",
+    "2.jpg",
+    "3-citation.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8-citation.jpg",
+    "9.jpg",
+    "10.jpg",
+    "11.jpg",
+    "12-citation.jpg",
+    "13-citation.jpg",
+    "20260826_134934-EDIT.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 23→22) et titre renommé « Jomsom » → « Sangda - Jomsom » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : 4 citations rédigées à partir des idées de Denis et validées (Acte 5, dernière étape marathon du trek) : 3-citation (pente d'éboulis, silhouette à la crête), 8-citation (virage/drapeaux de prière ouvrant sur le Mustang), 12-citation (col révélant le Dhaulagiri), 13-citation (vue plongeante sur Jomsom, clôture de toute la série — écho à « la suite » de la bio). Portrait de Denis (20260826_134934-EDIT.jpg, Dhaulagiri/Annapurna en fond, vallée de Jomsom en contrebas) ajouté en dernière slide — clôture du post et de toute la série Dolpo. Stats + profil d'altitude calculés depuis activity_24122442965.gpx. manifest.json (2026-08-26) complété avec gpx et stat. 10/09/2026 (suite) : dénivelé corrigé par Denis (1319/2367 m au lieu du calcul haversine initial 1660/2701 m) — manifest.json mis à jour, scene régénérée. Citations 3, 8, 12, 13 descendues au tiers bas (y_frac=0.75). Visuels validés par Denis — post prêt à publier. Dernier post de la série Dolpo, série complète (00→23) désormais entièrement traitée.",
+  "citations": {
+    "3-citation.jpg": "Grimper, traverser, grimper encore — la fin d'un trek n'est qu'une ouverture vers l'infini.",
+    "8-citation.jpg": "Un virage, et c'est le Mustang tout entier qui s'ouvre.",
+    "12-citation.jpg": "Le col ouvre une fenêtre sur le Dhaulagiri.",
+    "13-citation.jpg": "1000 m de descente nous séparent encore de la fin de cette aventure — mais finir, c'est déjà ouvrir la porte sur la suite."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ordre_publication": 23,
+  "titre": "Le sas de recompression",
+  "jour_trek": "",
+  "date_evenement": "2026-08-27",
+  "lieu": "Pokhara & Kathmandou",
+  "acte": "Acte 6 — Le retour d'un homme nouveau",
+  "stats": "",
+  "format": "Carrousel 10 slides : titre + 3 signature seule + 6 citations. Dernier post de la série Dolpo.",
+  "citation": "Sous le regard et la protection du divin.",
+  "legende": "Le retour ne se fait pas d'un coup. Premier étage : Pokhara, ses bars à touristes presque étouffants après vingt jours de nature brute — première nuit dans un vrai lit, fenêtre grande ouverte en pleine nuit, trop d'air conditionné et pas assez d'altitude. Deuxième étage : Kathmandou, enfin une vraie nuit de sommeil, une balade, des souvenirs à rapporter, et autour du stupa les bougies et la danse Lakhe. Pour repartir, il faut d'abord revenir — même si, au fond, on s'en passerait bien.",
+  "slides": [
+    "0-titre.jpg",
+    "1-citation.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5-citation.jpg",
+    "6-citation.jpg",
+    "7-citation.jpg",
+    "9-citation.jpg",
+    "10-citation.jpg"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "dates_couvertes": [
+    "2026-08-27",
+    "2026-08-28",
+    "2026-08-29",
+    "2026-08-30",
+    "2026-08-31"
+  ],
+  "notes": "Montage multi-jours 27/08→31/08 (Pokhara ×2, retour Kathmandou ×3). Propositions littéraires : Récits-du-Dolpo.md (Acte 6). Idem : hors --serie. 04/09/2026 : renumérotation (ordre 24→23) et titre renommé « Le sas de recompression » → « Le sas de recompression » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : 6 citations rédigées à partir des idées de Denis et validées (Acte 6, sas de recompression Pokhara/Kathmandou) : 1-citation (4x4 chargé jusqu'au toit), 5-citation (chambre d'hôtel impeccable), 6-citation (lac de Pokhara, cité balnéaire), 7-citation (danse Lakhe sous la pluie), 9-citation (yeux du stupa de Boudhanath de nuit), 10-citation (Denis et le guide, bougie « 10 » de Nomad's Land soufflée ensemble, clôture de toute la série). Pas de scene/stats/gpx (montage multi-jours hors trek, comme 00/01/02). Pas de lieu affiché (titre déjà explicite). Pudeur : aucune identification de « Elle » ; photo 10 = portrait assumé de Denis et du guide Nomad's Land, thanks explicite. 10/09/2026 (suite) : citations 1, 7, 9 et 10 descendues au tiers bas (y_frac=0.75) pour dégager les visages sur 10-citation. Visuels validés par Denis — post prêt à publier. Dernier post de la série Dolpo.",
+  "citations": {
+    "1-citation.jpg": "Tetris : un 4x4, huit personnes, une montagne de bagages.",
+    "5-citation.jpg": "Oups. Un vrai lit, un vrai matelas — trop de confort d'un coup.",
+    "6-citation.jpg": "Pokhara, cité balnéaire, ses bars à touristes — après vingt jours de nature brute, j'étouffe déjà.",
+    "7-citation.jpg": "La danse Lakhe, pour éloigner les mauvais esprits — même de retour, le rituel continue.",
+    "9-citation.jpg": "Sous le regard et la protection du divin.",
+    "10-citation.jpg": "Les 10 ans de Nomad's Land fêtés au Dolpo — Merci Messieurs."
+  }
+}

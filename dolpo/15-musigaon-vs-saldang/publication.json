@@ -1,0 +1,19 @@
+{
+  "ordre_publication": 14,
+  "titre": "Nisalgaon - Saldang",
+  "jour_trek": "",
+  "date_evenement": "2026-08-18",
+  "lieu": "Saldang",
+  "acte": "Acte 4 — La reconnexion à soi s'épanouit de la déconnexion",
+  "stats": "",
+  "format": "Post 2 slides : scene + vidéo (torrent en furie, 20260818_092255.mp4).",
+  "citation": "",
+  "legende": "Le plan prévoyait une rivière à gué, crocs aux pieds. La rivière, elle, avait prévu d'être un torrent en furie. Demi-tour, toute l'étape de la veille refaite sous la pluie, et 21 km de plus au compteur pour rejoindre Saldang. Le Dolpo décide, on s'adapte.",
+  "slides": [
+    "1-scene.jpg",
+    "20260818_092255.mp4"
+  ],
+  "statut": "pret",
+  "date_publication_prevue": null,
+  "notes": "04/09/2026 : renumérotation (ordre 15→14) et titre renommé « Musigaon vs Saldang » → « Nisalgaon - Saldang » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). 10/09/2026 : masque appliqué sur 1-scene.jpg (torrent en furie qui a forcé le demi-tour, écho direct à la légende). Stats + profil d'altitude calculés depuis activity_24119273833.gpx (distance 21,3 km cohérente avec les \"21 km de plus\" du récit). manifest.json (2026-08-18) complété avec gpx et stat. Vidéo 20260818_092255.mp4 non traitée par masque-photos (outil image uniquement, cf. limite déjà notée pour les Reels) — reste intacte, à intégrer telle quelle au carrousel/post. 10/09/2026 (suite) : visuels validés par Denis — post prêt à publier."
+}
