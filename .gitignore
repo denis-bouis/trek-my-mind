@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 .DS_Store
+
+# Copies de travail masque-photos — non utiles au pipeline de publication
+**/photos/originaux/
+**/photos/bloc/
