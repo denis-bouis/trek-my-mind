@@ -15,7 +15,7 @@ Carrousel 6-8 slides, un cadre par chapitre :
 | # | Chapitre | Image à chercher |
 |---|----------|------------------|
 | 1 | Ancrage | Portrait en situation, **visage visible** (seul post où c'est le cas) : assis à un col le regard au loin, ou de trois-quarts sur une crête, sac au dos. Pas de selfie. Ligne de bio en surimpression. |
-| 2 | L'origine | Vieille photo d'enfance en montagne avec ton père (« rêve planté à 15 ans ») si elle existe — sinon objet-symbole : carte usée, vieilles chaussures. |
+| 2 | L'origine | Vieille photo d'enfance en montagne avec ton père (« rêve planté à 12 ans ») si elle existe — sinon objet-symbole : carte usée, vieilles chaussures. |
 | 3 | Le retour (2024) | Manaslu — idéalement Thorong La (5 416 m). Le trek qui a tout redémarré. |
 | 4 | Khumbu (2025) | Signature : Everest depuis Kala Pathar, ou un col enneigé. Registre neige / magenta. |
 | 5 | Dolpo (2026) | Plateau aride, Shey Gompa, un col ocre. Le **contraste brun vs neige** avec la slide 4 montre l'amplitude. |

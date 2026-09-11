@@ -10,14 +10,14 @@
   "citation": "La paix se gagne à la sueur ; le reste se joue dans la tête.",
   "citations": {
     "1.jpeg": "La paix se gagne à la sueur ; le reste se joue dans la tête.",
-    "2.jpeg": "Un rêve planté à 15 ans",
+    "2.jpeg": "Un rêve planté à 12 ans",
     "3.jpeg": "Manaslu : le trek qui a tout redémarré",
     "4.jpeg": "L'Everest enfin face à moi",
     "5.jpeg": "L'immersion profonde du Dolpo",
     "6.jpeg": "Entre les grandes expés, je marche et m'entraîne ici aussi",
     "7.jpeg": "Un futur fait de multiples sentiers"
   },
-  "legende": "À 15 ans, un reportage sur l'Everest a planté un rêve. La vie — le travail, la famille — l'a mis en veille trente ans. Je l'ai repris à 58 : le Manaslu, puis les 3 cols du Khumbu, puis le Dolpo — 22 jours de marche, 31 jours sans réseau, coupé du monde.\n\nIci, je raconte ces treks — Népal, Alpes, et la suite. Pas la performance : ce que l'effort et l'altitude font tomber, et ce qu'ils laissent apparaître. La paix se gagne à la sueur ; le reste se joue dans la tête.\n\nBienvenue sur Trek My Mind. 👇",
+  "legende": "À 12 ans, un reportage sur l'Everest a planté un rêve. La vie — le travail, la famille — l'a mis en veille trente ans. Je l'ai repris à 58 : le Manaslu, puis les 3 cols du Khumbu, puis le Dolpo — 22 jours de marche, 31 jours sans réseau, coupé du monde.\n\nIci, je raconte ces treks — Népal, Alpes, et la suite. Pas la performance : ce que l'effort et l'altitude font tomber, et ce qu'ils laissent apparaître. La paix se gagne à la sueur ; le reste se joue dans la tête.\n\nBienvenue sur Trek My Mind. 👇",
   "slides": [
     "1.jpeg",
     "2.jpeg",
@@ -27,7 +27,8 @@
     "6.jpeg",
     "7.jpeg"
   ],
+  "identite": "manuelle",
   "statut": "pret",
   "date_publication_prevue": null,
-  "notes": "Post épinglé d'introduction du COMPTE, aligné sur la bio retenue (cf. Réflexion/Stratégie-Positionnement-et-Contenu.md § Bio). Texte = « version longue » validée le 04/09/2026 ; la citation reprend verbatim la 2e ligne de bio pour que bio et post épinglé riment. L'accroche courte « Je suis parti pour en chier. Je suis revenu émerveillé. » n'est PAS ici : elle porte le post d'ouverture dédié de la série Dolpo, 01-ouverture-dolpo/ (décidé le 04/09). Hors --serie (sans date, montage) : les 7 photos couvrent des dates/treks différents (2024→2026), incompatible avec le mode --serie du masque-photos (une seule date par post) — masque appliqué le 04/09/2026 par appel direct de render_citation() du script sur chacune (pas de copie du script), une citation par slide, couleur fuchsia (accent orange initial peu lisible). Pudeur : aucun plan n'identifie « Elle ». Shot-list détaillée : ./shotlist.md. Citations incrustées (dans l'ordre des slides) : 1. « La paix se gagne à la sueur ; le reste se joue dans la tête. » — 2. « Un rêve planté à 15 ans » — 3. « Manaslu : le trek qui a tout redémarré » — 4. « L'Everest enfin face à moi » — 5. « L'immersion profonde du Dolpo » — 6. « Entre les grandes expés, je marche et m'entraîne ici aussi » — 7. « Un futur fait de multiples sentiers ». Visuels validés par Denis le 04/09/2026 — post prêt à publier."
+  "notes": "Post épinglé d'introduction du COMPTE, aligné sur la bio retenue (cf. Réflexion/Stratégie-Positionnement-et-Contenu.md § Bio). Texte = « version longue » validée le 04/09/2026 ; la citation reprend verbatim la 2e ligne de bio pour que bio et post épinglé riment. L'accroche courte « Je suis parti pour en chier. Je suis revenu émerveillé. » n'est PAS ici : elle porte le post d'ouverture dédié de la série Dolpo, 01-ouverture-dolpo/ (décidé le 04/09). Hors --serie (sans date, montage) : les 7 photos couvrent des dates/treks différents (2024→2026), incompatible avec le mode --serie du masque-photos (une seule date par post) — masque appliqué le 04/09/2026 par appel direct de render_citation() du script sur chacune (pas de copie du script), une citation par slide, couleur fuchsia (accent orange initial peu lisible). Pudeur : aucun plan n'identifie « Elle ». Shot-list détaillée : ./shotlist.md. Citations incrustées (dans l'ordre des slides) : 1. « La paix se gagne à la sueur ; le reste se joue dans la tête. » — 2. « Un rêve planté à 12 ans » — 3. « Manaslu : le trek qui a tout redémarré » — 4. « L'Everest enfin face à moi » — 5. « L'immersion profonde du Dolpo » — 6. « Entre les grandes expés, je marche et m'entraîne ici aussi » — 7. « Un futur fait de multiples sentiers ». Visuels validés par Denis le 04/09/2026 — post prêt à publier."
 }
