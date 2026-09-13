@@ -1,0 +1,1 @@
+/Users/denis/Documents/MySecondBrain/10-PROJETS/2026-Trek-My-Mind/Réalisation/publish_instagram.py

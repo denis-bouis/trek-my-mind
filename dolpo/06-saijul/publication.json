@@ -13,6 +13,17 @@
     "7-citation.jpg": "Ici, on marche presque sur l'eau"
   },
   "legende": "S'inscrire dans la durée. Une forêt humide à 93 % d'hygrométrie, un torrent qu'on longe minute après minute, des passages où l'on marche presque sur l'eau. Autour de nous, des cantonniers réparent le chemin à mains nues — pierre après pierre, comme nous, pas après pas.",
+  "hashtags": [
+    "#trekmymind",
+    "#randonnée",
+    "#trekking",
+    "#Nepal",
+    "#Himalaya",
+    "#slowtravel",
+    "#natureconnection",
+    "#paixinterieure",
+    "#Saijul"
+  ],
   "slides": [
     "1-scene.jpg",
     "2.jpg",
@@ -23,7 +34,8 @@
     "7-citation.jpg",
     "8.jpg"
   ],
-  "statut": "pret",
+  "statut": "publie",
   "date_publication_prevue": null,
-  "notes": "04/09/2026 : renumérotation (ordre 6→5) et titre renommé « Saijul » → « Chepka - Saijul » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). Masque appliqué (fuchsia + bandeau « Dolpo - Royaume oublié » + signature 75%) : 1-scene avec stats + tracé GPS depuis activity_24123428080.gpx, position droite (pas de collision). 5-citation « Pierre par pierre, ils réparent, nous marchons » (cantonniers) et 7-citation « Ici, on marche presque sur l'eau » (passage gabion au ras du torrent), les deux en écho direct à la légende. 2/3/4/6/8 signature seule. Pudeur : la scene (1) montre deux marcheurs très rapprochés de dos — signalé à Denis, gardé tel quel (validé explicitement). Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée avec le nouveau comportement départ/arrivée du profil d'altitude — ici départ et arrivée coïncident avec min/max, donc aucune étiquette supplémentaire (pas de redondance) ; aucun autre changement."
+  "notes": "04/09/2026 : renumérotation (ordre 6→5) et titre renommé « Saijul » → « Chepka - Saijul » (préfixe = étape précédente, suite à la fusion Juphal+Sulighat). Masque appliqué (fuchsia + bandeau « Dolpo - Royaume oublié » + signature 75%) : 1-scene avec stats + tracé GPS depuis activity_24123428080.gpx, position droite (pas de collision). 5-citation « Pierre par pierre, ils réparent, nous marchons » (cantonniers) et 7-citation « Ici, on marche presque sur l'eau » (passage gabion au ras du torrent), les deux en écho direct à la légende. 2/3/4/6/8 signature seule. Pudeur : la scene (1) montre deux marcheurs très rapprochés de dos — signalé à Denis, gardé tel quel (validé explicitement). Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée avec le nouveau comportement départ/arrivée du profil d'altitude — ici départ et arrivée coïncident avec min/max, donc aucune étiquette supplémentaire (pas de redondance) ; aucun autre changement.",
+  "instagram_media_id": "18636030139021184"
 }

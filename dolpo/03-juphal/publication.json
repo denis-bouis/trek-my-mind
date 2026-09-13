@@ -12,6 +12,18 @@
     "3-citation.jpg": "Le paysage offre déjà ce qu'on était venu chercher"
   },
   "legende": "Une mer de nuages à 4000 m, un virage serré pour s'aligner sur la vallée, la montagne si proche qu'on pourrait la toucher de la main. Atterrissage à Juphal, piste courte, pilote précis — on comprend l'annulation de la veille. À peine posés, le paysage offre déjà ce qu'on était venu chercher.\n\nPremier pas dans le Dolpo dans la foulée — 6 km tout en descente vers Sulighat, sept mules chargées en éclaireuses. Repas gastronomiques sous tente privative, 23 °C à 21h30 passé 2000 m d'altitude. Le grand luxe avant le grand vide.",
+  "hashtags": [
+    "#trekmymind",
+    "#randonnée",
+    "#trekking",
+    "#Nepal",
+    "#Himalaya",
+    "#slowtravel",
+    "#natureconnection",
+    "#paixinterieure",
+    "#Juphal",
+    "#Sulighat"
+  ],
   "slides": [
     "1-scene.jpg",
     "2.jpg",
@@ -20,7 +32,8 @@
     "5.jpg",
     "6.jpg"
   ],
-  "statut": "pret",
+  "statut": "publie",
   "date_publication_prevue": null,
-  "notes": "04/09/2026 : fusion avec l'ex-post 04-sulighat (même journée réelle, confirmée par l'EXIF des 6 photos déposées : 05/08/2026 — pas 04/08 comme supposé lors de la fusion initiale, corrigé dans manifest.json et ici). Renommé « Nepalgunj - Juphal - Sulighat » (préfixe = étape précédente, convention appliquée à toute la série sauf le dernier post). Dossier 04-sulighat supprimé (contenu absorbé ici). Masque appliqué hors --serie (bypass direct render_scene()/render_citation()/render_signature(), comme 00-02) : 1-scene (identité complète), 3-citation (« Le paysage offre déjà ce qu'on était venu chercher », suggérée par Denis en écho à la légende ; corrigée « donne » → « offre » le 04/09/2026), 2/4/5/6 signature seule. Fuchsia + bandeau « Dolpo - Royaume oublié » + signature 75%, cohérent avec le reste de la série. 04/09/2026 (3e passe) : stats + tracé GPS ajoutés sur 1-scene, calculés directement depuis activity_23869857698.gpx (seul GPX correspondant au 05/08 — couvre uniquement le tronçon de marche Juphal→Sulighat, le vol Nepalgunj→Juphal n'étant pas tracé) : distance/dénivelé par haversine sur les points du tracé, D+/D- avec seuil de bruit 1 m. Manifest.json mis à jour (stat + gpx pour 2026-08-05). 04/09/2026 (4e passe) : sous-titre de la scene sans le lieu (le titre portait déjà « Nepalgunj - Juphal - Sulighat », le lieu faisait doublon) — correction générale de draw_title_zone() dans le script partagé (plus de « @ » orphelin quand lieu ou date_heure est vide). Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée suite à l'ajout du départ/arrivée sur le profil d'altitude (draw_elevation_profile_zone) quand ils sont à distance du min/max — ici l'arrivée (2074 m) est distincte du min (2052 m) et s'affiche désormais ; aucun autre changement (mêmes titre/lieu/stats/gpx)."
+  "notes": "04/09/2026 : fusion avec l'ex-post 04-sulighat (même journée réelle, confirmée par l'EXIF des 6 photos déposées : 05/08/2026 — pas 04/08 comme supposé lors de la fusion initiale, corrigé dans manifest.json et ici). Renommé « Nepalgunj - Juphal - Sulighat » (préfixe = étape précédente, convention appliquée à toute la série sauf le dernier post). Dossier 04-sulighat supprimé (contenu absorbé ici). Masque appliqué hors --serie (bypass direct render_scene()/render_citation()/render_signature(), comme 00-02) : 1-scene (identité complète), 3-citation (« Le paysage offre déjà ce qu'on était venu chercher », suggérée par Denis en écho à la légende ; corrigée « donne » → « offre » le 04/09/2026), 2/4/5/6 signature seule. Fuchsia + bandeau « Dolpo - Royaume oublié » + signature 75%, cohérent avec le reste de la série. 04/09/2026 (3e passe) : stats + tracé GPS ajoutés sur 1-scene, calculés directement depuis activity_23869857698.gpx (seul GPX correspondant au 05/08 — couvre uniquement le tronçon de marche Juphal→Sulighat, le vol Nepalgunj→Juphal n'étant pas tracé) : distance/dénivelé par haversine sur les points du tracé, D+/D- avec seuil de bruit 1 m. Manifest.json mis à jour (stat + gpx pour 2026-08-05). 04/09/2026 (4e passe) : sous-titre de la scene sans le lieu (le titre portait déjà « Nepalgunj - Juphal - Sulighat », le lieu faisait doublon) — correction générale de draw_title_zone() dans le script partagé (plus de « @ » orphelin quand lieu ou date_heure est vide). Visuels validés par Denis le 04/09/2026 — post prêt à publier. 05/09/2026 : 1-scene regénérée suite à l'ajout du départ/arrivée sur le profil d'altitude (draw_elevation_profile_zone) quand ils sont à distance du min/max — ici l'arrivée (2074 m) est distincte du min (2052 m) et s'affiche désormais ; aucun autre changement (mêmes titre/lieu/stats/gpx).",
+  "instagram_media_id": "18100444007623290"
 }
